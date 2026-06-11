@@ -1,0 +1,25 @@
+# Launch House Ventures
+
+> Launch House Ventures is a founder-led early-stage fund backing driven founders with capital, community, and support for product launches.
+
+This is the canonical homepage for Launch House Ventures. The canonical URL is https://launchhouse.com/.
+
+## Primary Page
+
+- [Homepage](https://launchhouse.com/): Plaintext-style overview of Launch House Ventures, its focus, notable investments, and contact links.
+
+## Contact
+
+- [Email](mailto:contact@launchhouse.co): Contact Launch House Ventures.
+- [Brett](https://x.com/thatguybg): Brett Goldstein on X.
+- [Jacob](https://x.com/j__cub): Jacob on X.
+- [X](https://x.com/launchhouse): Launch House on X.
+- [LinkedIn](https://www.linkedin.com/company/launch-house/): Launch House on LinkedIn.
+
+## Notable Investments
+
+- [Solace Health](https://www.solace.health/)
+- [Superpower](https://superpower.com/)
+- [Babylon Bio](https://babylon.bio/)
+- [Solcoa](https://www.solcoaindustries.com/)
+- [Paraform](https://www.paraform.com/)
